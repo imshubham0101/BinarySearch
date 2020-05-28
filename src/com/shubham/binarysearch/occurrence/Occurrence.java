@@ -16,7 +16,7 @@ package  com.shubham.binarysearch.occurrence ;
 import  static com.shubham.binarysearch.BinarySerach.* ;
 public class Occurrence {
 
-   // int result = 0 ;
+   // int result = 0 ; //hello this is second commit
     public static void main(String[] args) {
        // int[] inputarr = new int[]{1, 3, 5, 5, 5, 5 ,67, 123, 125} ;
         int[] inputarr = new int[]{2, 2, 2, 2, 2, 2, 3,} ;
