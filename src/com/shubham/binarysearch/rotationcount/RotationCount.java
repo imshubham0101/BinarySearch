@@ -66,8 +66,8 @@ public class RotationCount {
     }
     //search in sorted rotated array
     public static int searchInSortedArray(int[] inputarr, int key, int minIndex) {
-        int leftindex = searchKey(inputarr,key,minIndex,inputarr.length-1);
-        int rightindex = searchKey(inputarr,key,0,minIndex-1);
+        var leftindex = searchKey(inputarr,key,minIndex,inputarr.length-1);
+        var rightindex = searchKey(inputarr,key,0,minIndex-1);
 
 
 
